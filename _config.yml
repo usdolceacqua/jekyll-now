@@ -93,6 +93,11 @@ prose:
               value: "pears"
             - name: "Mangos"
               value: "mangos"
+    - name: "published"
+        field:
+          element: "checkbox"
+          label: "Pubblicato"
+          value: false
     _posts/static:
       - name: "layout"
         field:
