@@ -58,7 +58,7 @@ prose:
   rooturl: '_posts'
   siteurl: 'http://usdolceacqua.github.io/'
   relativeLinks: 'http://usdolceacqua.github.io/links.jsonp'
-  media: 'media'
+  media: 'images'
   metadata:
     _posts:
       - name: "category"
