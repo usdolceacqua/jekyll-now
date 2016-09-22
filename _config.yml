@@ -52,6 +52,7 @@ baseurl: ""
 
 
 
+
 #PROSE CONFIGURATION
 prose:
   rooturl: '_posts'
