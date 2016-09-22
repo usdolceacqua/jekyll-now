@@ -93,7 +93,7 @@ prose:
               value: "pears"
             - name: "Mangos"
               value: "mangos"
-    - name: "published"
+      - name: "published"
         field:
           element: "checkbox"
           label: "Pubblicato"
